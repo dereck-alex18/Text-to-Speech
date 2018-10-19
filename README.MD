@@ -1,0 +1,2 @@
+Text to Speech is a program where the user types a text and hear what was typed. 19 different voices with different accents (American, British, Brazilian, German and so on) can be chosen to speech the text,the pitch can be controlled by the user as well as the rate.
+To build this project were used HTML, Bootstrap 4, Vanilla JavaScript and also The Web Speech API, which incorporates voice data into web apps.
